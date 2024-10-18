@@ -11,4 +11,5 @@ Lesson organization and video storage
 Assessment and submission tracking
 Data integrity through well-defined relationships
 
-Link
+[Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/ac07030a67ed38832f398d3a71d5bddc6e0fcccb/Learning%20platfrom%20database%20design%20and%20development.pdf))
+
