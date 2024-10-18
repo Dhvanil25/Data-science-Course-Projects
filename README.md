@@ -36,4 +36,4 @@ Drive growth and improve customer satisfaction.
 **Data Model**
 The data model includes relationships between tables like customers, orders, products, and categories, enabling complex calculations and meaningful visualizations.
 
-
+[Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/800055390c6076cea10fe112a05277948b426b03/grocery%20store%20analysis%20powerBI.pdf))
