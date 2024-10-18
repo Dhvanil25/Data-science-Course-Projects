@@ -37,3 +37,5 @@ Drive growth and improve customer satisfaction.
 The data model includes relationships between tables like customers, orders, products, and categories, enabling complex calculations and meaningful visualizations.
 
 [Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/800055390c6076cea10fe112a05277948b426b03/grocery%20store%20analysis%20powerBI.pdf))
+
+[Link Live Dashboard]([link here](https://app.powerbi.com/view?r=eyJrIjoiNDE0MzlkZTUtZDExNi00YTFlLThlMGItZjY0OGE5MTg5Mjk0IiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9))
