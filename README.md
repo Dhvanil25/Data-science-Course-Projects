@@ -38,4 +38,26 @@ The data model includes relationships between tables like customers, orders, pro
 
 [Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/800055390c6076cea10fe112a05277948b426b03/grocery%20store%20analysis%20powerBI.pdf))
 
-[Link Live Dashboard]([link here](https://app.powerbi.com/view?r=eyJrIjoiNDE0MzlkZTUtZDExNi00YTFlLThlMGItZjY0OGE5MTg5Mjk0IiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9))
+
+**Project 3**
+**Nature pick data data architect**
+
+**Overview**
+This data architecture supports Nature Pick’s mission to revolutionize agriculture through cutting-edge technology, providing customers with fresh, high-quality products. Leveraging a robust combination of IoT devices, structured databases, web scraping, and social media data, the architecture underpins Nature Pick's seamless operations, from farm-to-table delivery to innovative analytics. The architecture utilizes a Lakehouse framework to integrate real-time and batch data streams efficiently, with tools like Azure Synapse Analytics and Databricks enabling scalable processing. Advanced visualizations in Power BI and machine learning algorithms further enhance operational efficiency and customer experience.
+
+**Key Components**
+**Data Sources and Ingestion:**
+
+IoT Data: Real-time sensor data for soil, moisture, and logistics.
+Transactional Systems: Structured sales, inventory, and CRM data.
+External Sources: Web scraping for market trends and social media insights.
+Lakehouse Storage:
+
+Centralized storage solutions using Azure Blob, Data Lake, and Cosmos DB for raw and processed data in diverse formats.
+Data Processing Pipelines:
+
+Batch and streaming pipelines cleanse and curate raw data into structured formats, supporting advanced analytics.
+Analytics and Insights:
+
+
+
