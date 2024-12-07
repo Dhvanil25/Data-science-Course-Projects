@@ -58,6 +58,6 @@ Data Processing Pipelines:
 
 Batch and streaming pipelines cleanse and curate raw data into structured formats, supporting advanced analytics.
 Analytics and Insights:
-
+[Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/14ddd800fe5f1b90e70c3c39e6a81924846fd798/nature%20pick%20data%20architecture.pdf))
 
 
