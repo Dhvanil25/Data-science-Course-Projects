@@ -1,3 +1,12 @@
+**cloud computing project**
+Event Management Web Application
+This project is a comprehensive web application designed to streamline event planning and management. Built using PHP, MySQL, and Docker, and deployed on an OpenStack infrastructure, it enables seamless creation, organization, and execution of events. The application features secure user authentication, event management, and a responsive frontend crafted with HTML, CSS, JavaScript, and Bootstrap. High availability is ensured with Docker Swarm, while performance monitoring is handled through Zabbix. The project follows Agile methodology and includes extensive testing for functionality, performance, and security.
+
+📄 Project Documentation: ([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/main/BuildBook_Group5_updated%201.pdf))
+
+
+
+
 **Project 1**
 
 **Online Learning Platform - Database Design**
