@@ -70,3 +70,54 @@ Analytics and Insights:
 [Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/14ddd800fe5f1b90e70c3c39e6a81924846fd798/nature%20pick%20data%20architecture.pdf))
 
 
+**Project 4**
+Vehicle Accident Statistics Dashboard
+
+This repository contains the design and development documentation for the Vehicle Accident Statistics Dashboard. The dashboard is crafted to provide detailed insights into road traffic accidents, helping identify key factors contributing to accidents and their severity. The goal is to support data-driven decision-making, enhance road safety, and guide policymaking.
+
+**📊 Project Overview**
+
+Purpose: Analyze road accidents, identify high-risk factors, and suggest improvements for road safety.
+
+Scope: Focuses on analyzing accident data based on demographics, environmental factors, vehicle types, and road conditions.
+
+Tools Used: Python for data cleaning and transformation, Power BI for data modeling and visualization.
+
+**🛠️ System Architecture**
+
+Data Sourcing: Traffic authority records and weather data. Dataset sourced from Kaggle.
+
+**ETL Process:**
+
+Extract: Data pulled from Kaggle.
+
+Transform: Data cleaned and standardized using Python.
+
+Load: Processed data imported into Power BI.
+
+Visualization: Interactive dashboards created in Power BI, enabling dynamic data exploration and analysis.
+
+**📈 Key Dashboards**
+
+Vehicle Accident Analysis Dashboard
+
+Insights into accident distribution by day, hour, and demographics.
+
+Accident Severity and Collision Analysis Dashboard
+
+Analysis of accident severity, collision types, and contributing factors.
+
+Weather Conditions and Pedestrian Accident Analysis Dashboard
+
+Insights into how weather and road conditions affect accident trends.
+
+**🚀 Features**
+
+Interactive charts with filtering options for customized data views.
+
+Easy navigation between dashboards.
+
+Filters for date, vehicle type, weather conditions, and accident severity.
+
+[Link to the detailed report]([link here](https://github.com/Dhvanil25/Data-science-Course-Projects/blob/main/Vehicle%20Accident%20Statistics%20Dashboard.pdf))
+
